@@ -1,0 +1,3 @@
+﻿CREATE USER [dmayl]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [Ccruzc]
+GO

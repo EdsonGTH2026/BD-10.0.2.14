@@ -1,0 +1,3 @@
+﻿CREATE USER [aalapin]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [Ccruzc]
+  WITHOUT LOGIN
+GO

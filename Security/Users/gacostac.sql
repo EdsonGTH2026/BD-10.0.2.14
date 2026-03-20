@@ -1,0 +1,3 @@
+﻿CREATE USER [gacostac]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [aalamillom]
+  WITHOUT LOGIN
+GO

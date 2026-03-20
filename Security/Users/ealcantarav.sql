@@ -1,0 +1,3 @@
+﻿CREATE USER [ealcantarav]
+  WITHOUT LOGIN
+GO
