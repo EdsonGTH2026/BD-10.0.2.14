@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [eargudins]
+GO

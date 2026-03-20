@@ -1,0 +1,3 @@
+﻿CREATE USER [gsanchezr]
+  WITHOUT LOGIN
+GO

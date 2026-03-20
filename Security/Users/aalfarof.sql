@@ -1,0 +1,3 @@
+﻿CREATE USER [aalfarof]
+  WITHOUT LOGIN
+GO

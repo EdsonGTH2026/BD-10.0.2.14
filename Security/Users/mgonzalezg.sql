@@ -1,0 +1,3 @@
+﻿CREATE USER [mgonzalezg]
+  WITHOUT LOGIN
+GO

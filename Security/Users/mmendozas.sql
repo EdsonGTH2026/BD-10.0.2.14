@@ -1,0 +1,3 @@
+﻿CREATE USER [mmendozas]
+  WITHOUT LOGIN
+GO

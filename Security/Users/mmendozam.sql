@@ -1,0 +1,3 @@
+﻿CREATE USER [mmendozam]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [eargudins]
+  WITHOUT LOGIN
+GO

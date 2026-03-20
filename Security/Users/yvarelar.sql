@@ -1,0 +1,3 @@
+﻿CREATE USER [yvarelar]
+  WITHOUT LOGIN
+GO

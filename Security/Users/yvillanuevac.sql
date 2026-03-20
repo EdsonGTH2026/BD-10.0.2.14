@@ -1,0 +1,3 @@
+﻿CREATE USER [yvillanuevac]
+  WITHOUT LOGIN
+GO

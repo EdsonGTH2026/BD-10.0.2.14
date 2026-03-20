@@ -1,0 +1,3 @@
+﻿CREATE USER [mvicenciop]
+  WITHOUT LOGIN
+GO

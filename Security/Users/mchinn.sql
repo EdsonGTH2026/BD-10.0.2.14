@@ -1,0 +1,3 @@
+﻿CREATE USER [mchinn]
+  WITHOUT LOGIN
+GO

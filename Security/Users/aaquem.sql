@@ -1,0 +1,3 @@
+﻿CREATE USER [aaquem]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [jhernandezsa]
+  WITHOUT LOGIN
+GO

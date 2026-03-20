@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [ablasc]
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [cdeleons]
+  WITHOUT LOGIN
+GO

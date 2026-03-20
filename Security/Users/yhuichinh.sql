@@ -1,0 +1,3 @@
+﻿CREATE USER [yhuichinh]
+  WITHOUT LOGIN
+GO

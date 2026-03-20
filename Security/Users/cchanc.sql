@@ -1,0 +1,3 @@
+﻿CREATE USER [cchanc]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [jperezro]
+  WITHOUT LOGIN
+GO

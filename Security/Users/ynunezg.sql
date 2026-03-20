@@ -1,0 +1,3 @@
+﻿CREATE USER [ynunezg]
+  WITHOUT LOGIN
+GO

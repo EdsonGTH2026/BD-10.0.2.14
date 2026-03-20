@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [yzamorag]
+GO

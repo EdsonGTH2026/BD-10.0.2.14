@@ -1,0 +1,3 @@
+﻿CREATE USER [muluaco]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [acamachop]
+  WITHOUT LOGIN
+GO

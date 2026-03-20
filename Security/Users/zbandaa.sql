@@ -1,0 +1,3 @@
+﻿CREATE USER [zbandaa]
+  WITHOUT LOGIN
+GO

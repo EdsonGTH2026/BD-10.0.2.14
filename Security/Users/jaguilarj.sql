@@ -1,0 +1,3 @@
+﻿CREATE USER [jaguilarj]
+  WITHOUT LOGIN
+GO

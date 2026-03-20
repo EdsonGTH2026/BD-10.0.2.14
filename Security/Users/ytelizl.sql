@@ -1,0 +1,3 @@
+﻿CREATE USER [ytelizl]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [aariasb]
+  WITHOUT LOGIN
+GO

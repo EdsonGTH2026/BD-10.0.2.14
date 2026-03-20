@@ -1,0 +1,3 @@
+﻿CREATE USER [pdorantesp]
+  WITHOUT LOGIN
+GO

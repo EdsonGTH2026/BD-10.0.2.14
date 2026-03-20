@@ -1,0 +1,3 @@
+﻿CREATE USER [yperezv]
+  WITHOUT LOGIN
+GO

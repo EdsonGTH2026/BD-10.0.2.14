@@ -1,0 +1,3 @@
+﻿CREATE USER [lekp]
+  WITHOUT LOGIN
+GO

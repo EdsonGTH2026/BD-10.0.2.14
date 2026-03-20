@@ -1,0 +1,3 @@
+﻿CREATE USER [gduronf]
+  WITHOUT LOGIN
+GO

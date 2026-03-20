@@ -1,0 +1,3 @@
+﻿CREATE USER [zmaganav]
+  WITHOUT LOGIN
+GO

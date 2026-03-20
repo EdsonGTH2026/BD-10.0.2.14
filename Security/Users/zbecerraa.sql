@@ -1,0 +1,3 @@
+﻿CREATE USER [zbecerraa]
+  WITHOUT LOGIN
+GO

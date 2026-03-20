@@ -1,0 +1,3 @@
+﻿CREATE USER [amayc]
+  WITHOUT LOGIN
+GO

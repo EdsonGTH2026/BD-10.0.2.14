@@ -1,0 +1,3 @@
+﻿CREATE USER [mserranod]
+  WITHOUT LOGIN
+GO

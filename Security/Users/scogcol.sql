@@ -1,0 +1,3 @@
+﻿CREATE USER [scogcol]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [jgomezg]
+  WITHOUT LOGIN
+GO

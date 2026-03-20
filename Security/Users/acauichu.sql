@@ -1,0 +1,3 @@
+﻿CREATE USER [acauichu]
+  WITHOUT LOGIN
+GO

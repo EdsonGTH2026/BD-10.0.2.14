@@ -1,0 +1,3 @@
+﻿CREATE USER [jgonzalezh]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [aascencioj]
+  WITHOUT LOGIN
+GO

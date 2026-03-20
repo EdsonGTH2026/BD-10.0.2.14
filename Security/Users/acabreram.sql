@@ -1,0 +1,3 @@
+﻿CREATE USER [acabreram]
+  WITHOUT LOGIN
+GO

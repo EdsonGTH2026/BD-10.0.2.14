@@ -1,0 +1,3 @@
+﻿CREATE USER [evazquezm]
+  WITHOUT LOGIN
+GO

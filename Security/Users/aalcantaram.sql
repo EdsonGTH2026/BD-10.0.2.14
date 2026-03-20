@@ -1,0 +1,3 @@
+﻿CREATE USER [aalcantaram]
+  WITHOUT LOGIN
+GO

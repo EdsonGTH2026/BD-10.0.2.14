@@ -1,0 +1,3 @@
+﻿CREATE USER [ymossod]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [ncruzm]
+  WITHOUT LOGIN
+GO

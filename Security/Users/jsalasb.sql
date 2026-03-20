@@ -1,0 +1,3 @@
+﻿CREATE USER [jsalasb]
+  WITHOUT LOGIN
+GO

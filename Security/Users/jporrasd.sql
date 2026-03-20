@@ -1,0 +1,3 @@
+﻿CREATE USER [jporrasd]
+  WITHOUT LOGIN
+GO

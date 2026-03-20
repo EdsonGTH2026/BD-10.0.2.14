@@ -1,0 +1,3 @@
+﻿CREATE USER [aarizmendia]
+  WITHOUT LOGIN
+GO

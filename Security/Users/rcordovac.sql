@@ -1,0 +1,3 @@
+﻿CREATE USER [rcordovac]
+  WITHOUT LOGIN
+GO

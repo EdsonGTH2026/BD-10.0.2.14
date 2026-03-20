@@ -1,0 +1,3 @@
+﻿CREATE USER [jcocomp]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [mlaram]
+  WITHOUT LOGIN
+GO

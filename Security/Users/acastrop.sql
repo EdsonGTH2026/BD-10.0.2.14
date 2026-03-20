@@ -1,0 +1,3 @@
+﻿CREATE USER [acastrop]
+  WITHOUT LOGIN
+GO

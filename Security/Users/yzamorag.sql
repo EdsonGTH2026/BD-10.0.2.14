@@ -1,0 +1,3 @@
+﻿CREATE USER [yzamorag]
+  WITHOUT LOGIN
+GO

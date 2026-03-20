@@ -1,0 +1,3 @@
+﻿CREATE USER [jfloresce]
+  WITHOUT LOGIN
+GO

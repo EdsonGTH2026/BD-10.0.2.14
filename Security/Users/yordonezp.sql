@@ -1,0 +1,3 @@
+﻿CREATE USER [yordonezp]
+  WITHOUT LOGIN
+GO

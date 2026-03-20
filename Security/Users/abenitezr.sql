@@ -1,0 +1,3 @@
+﻿CREATE USER [abenitezr]
+  WITHOUT LOGIN
+GO

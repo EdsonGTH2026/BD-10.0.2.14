@@ -1,0 +1,3 @@
+﻿CREATE USER [yramonl]
+  WITHOUT LOGIN
+GO

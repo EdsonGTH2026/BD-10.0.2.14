@@ -1,0 +1,3 @@
+﻿CREATE USER [rchic]
+  WITHOUT LOGIN
+GO

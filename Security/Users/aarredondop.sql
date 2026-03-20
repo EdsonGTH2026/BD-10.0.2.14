@@ -1,0 +1,3 @@
+﻿CREATE USER [aarredondop]
+  WITHOUT LOGIN
+GO

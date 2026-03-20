@@ -1,0 +1,3 @@
+﻿CREATE USER [zamadorm]
+  WITHOUT LOGIN
+GO

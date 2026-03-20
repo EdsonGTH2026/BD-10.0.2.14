@@ -1,0 +1,3 @@
+﻿CREATE USER [vfranciscor]
+  WITHOUT LOGIN
+GO

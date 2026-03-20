@@ -1,0 +1,3 @@
+﻿CREATE USER [gcanp]
+  WITHOUT LOGIN
+GO

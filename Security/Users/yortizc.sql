@@ -1,0 +1,3 @@
+﻿CREATE USER [yortizc]
+  WITHOUT LOGIN
+GO

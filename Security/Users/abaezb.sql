@@ -1,0 +1,3 @@
+﻿CREATE USER [abaezb]
+  WITHOUT LOGIN
+GO

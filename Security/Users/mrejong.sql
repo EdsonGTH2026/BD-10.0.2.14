@@ -1,0 +1,3 @@
+﻿CREATE USER [mrejong]
+  WITHOUT LOGIN
+GO

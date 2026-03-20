@@ -1,0 +1,3 @@
+﻿CREATE USER [dgonzalezr]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [agomezr]
+  WITHOUT LOGIN
+GO

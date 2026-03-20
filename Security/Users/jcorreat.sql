@@ -1,0 +1,3 @@
+﻿CREATE USER [jcorreat]
+  WITHOUT LOGIN
+GO
