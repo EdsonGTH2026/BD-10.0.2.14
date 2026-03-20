@@ -1,0 +1,3 @@
+﻿CREATE USER [smezam]
+  WITHOUT LOGIN
+GO

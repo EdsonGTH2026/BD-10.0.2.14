@@ -1,0 +1,3 @@
+﻿CREATE USER [jmaranont]
+  WITHOUT LOGIN
+GO

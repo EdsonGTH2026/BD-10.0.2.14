@@ -1,0 +1,3 @@
+﻿CREATE USER [avillanuevag]
+  WITHOUT LOGIN
+GO

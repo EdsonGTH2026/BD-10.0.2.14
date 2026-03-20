@@ -1,0 +1,3 @@
+﻿CREATE USER [stp]
+  WITHOUT LOGIN
+GO

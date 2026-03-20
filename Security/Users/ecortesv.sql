@@ -1,0 +1,3 @@
+﻿CREATE USER [ecortesv]
+  WITHOUT LOGIN
+GO

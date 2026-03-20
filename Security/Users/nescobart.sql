@@ -1,0 +1,3 @@
+﻿CREATE USER [nescobart]
+  WITHOUT LOGIN
+GO

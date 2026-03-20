@@ -1,0 +1,3 @@
+﻿CREATE USER [btorrest]
+  WITHOUT LOGIN
+GO

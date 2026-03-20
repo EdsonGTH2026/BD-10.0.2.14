@@ -1,0 +1,3 @@
+﻿CREATE USER [acotoc]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [bdelangelh]
+  WITHOUT LOGIN
+GO

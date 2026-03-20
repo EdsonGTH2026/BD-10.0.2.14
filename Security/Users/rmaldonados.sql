@@ -1,0 +1,3 @@
+﻿CREATE USER [rmaldonados]
+  WITHOUT LOGIN
+GO

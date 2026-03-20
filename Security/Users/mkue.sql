@@ -1,0 +1,3 @@
+﻿CREATE USER [mkue]
+  WITHOUT LOGIN
+GO

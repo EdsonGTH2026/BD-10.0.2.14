@@ -1,0 +1,3 @@
+﻿CREATE USER [fdamians]
+  WITHOUT LOGIN
+GO

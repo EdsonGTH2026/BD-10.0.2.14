@@ -1,0 +1,3 @@
+﻿CREATE USER [carizmendij]
+  WITHOUT LOGIN
+GO

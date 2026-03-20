@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [smaganav]
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [mvillegasa]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [smaganav]
+  WITHOUT LOGIN
+GO

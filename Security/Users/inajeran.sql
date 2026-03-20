@@ -1,0 +1,3 @@
+﻿CREATE USER [inajeran]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [smezam]
+GO

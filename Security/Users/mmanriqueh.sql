@@ -1,0 +1,3 @@
+﻿CREATE USER [mmanriqueh]
+  WITHOUT LOGIN
+GO

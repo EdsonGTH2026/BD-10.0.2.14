@@ -1,0 +1,3 @@
+﻿CREATE USER [maguilarc]
+  WITHOUT LOGIN
+GO

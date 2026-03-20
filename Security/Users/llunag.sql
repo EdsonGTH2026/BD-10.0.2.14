@@ -1,0 +1,3 @@
+﻿CREATE USER [llunag]
+  WITHOUT LOGIN
+GO

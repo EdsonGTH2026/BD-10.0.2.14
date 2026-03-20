@@ -1,0 +1,3 @@
+﻿CREATE USER [dmoralesma]
+  WITHOUT LOGIN
+GO

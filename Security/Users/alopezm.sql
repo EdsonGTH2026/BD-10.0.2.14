@@ -1,0 +1,3 @@
+﻿CREATE USER [alopezm]
+  WITHOUT LOGIN
+GO

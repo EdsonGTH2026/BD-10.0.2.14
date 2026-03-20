@@ -1,0 +1,3 @@
+﻿CREATE USER [asancheza]
+  WITHOUT LOGIN
+GO

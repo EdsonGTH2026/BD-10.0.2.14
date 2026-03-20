@@ -1,0 +1,3 @@
+﻿CREATE USER [crosasg]
+  WITHOUT LOGIN
+GO
