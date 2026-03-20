@@ -1,0 +1,3 @@
+﻿CREATE USER [mramirezg]
+  WITHOUT LOGIN
+GO

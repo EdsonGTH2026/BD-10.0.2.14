@@ -1,0 +1,31 @@
+﻿CREATE TABLE [dbo].[tCURPInfo] (
+  [Id] [int] IDENTITY,
+  [CodUsuario] [varchar](50) NULL,
+  [IdSolicitud] [varchar](18) NOT NULL,
+  [CURPValido] [bit] NULL,
+  [CURP] [varchar](18) NOT NULL,
+  [Nombres] [varchar](100) NULL,
+  [ApellidoPaterno] [varchar](50) NULL,
+  [ApellidoMaterno] [varchar](50) NULL,
+  [Sexo] [varchar](1) NULL,
+  [FechaNacimiento] [smalldatetime] NULL,
+  [EntidadFederativaNacimiento] [varchar](3) NULL,
+  [ClaveNacionalidad] [varchar](10) NULL,
+  [TipoDocumentoProbatorio] [int] NULL,
+  [EstatusCURP] [varchar](50) NULL,
+  [DigestivoEntrada] [varchar](50) NULL,
+  [DigestivoSalida] [varchar](50) NULL,
+  [TimeStampCadena] [varchar](50) NULL,
+  [DigestivoTimeStamp] [varchar](50) NULL,
+  [FechaValidacion] [smalldatetime] NULL,
+  [CodigoRespuestaCCB] [varchar](10) NULL,
+  [DescripcionRespuestaCCB] [varchar](100) NULL,
+  [CodigoRespuestaRenapo] [varchar](10) NULL,
+  [DescripcionRespuestaRenapo] [varchar](100) NULL,
+  [Sistema] [varchar](20) NULL,
+  [FechaRegistro] [datetime] NOT NULL CONSTRAINT [DF__tCURPInfo__Fecha] DEFAULT (getdate()),
+  [FechaActualizacion] [datetime] NULL,
+  CONSTRAINT [PK_tCURPInfo] PRIMARY KEY CLUSTERED ([Id])
+)
+ON [PRIMARY]
+GO

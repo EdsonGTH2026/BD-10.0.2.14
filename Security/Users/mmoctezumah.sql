@@ -1,0 +1,3 @@
+﻿CREATE USER [mmoctezumah]
+  WITHOUT LOGIN
+GO

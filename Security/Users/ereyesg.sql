@@ -1,0 +1,3 @@
+﻿CREATE USER [ereyesg]
+  WITHOUT LOGIN
+GO

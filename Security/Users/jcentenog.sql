@@ -1,0 +1,3 @@
+﻿CREATE USER [jcentenog]
+  WITHOUT LOGIN
+GO

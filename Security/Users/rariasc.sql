@@ -1,0 +1,3 @@
+﻿CREATE USER [rariasc]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [lmenas]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [aamezcuag]
+  WITHOUT LOGIN
+GO

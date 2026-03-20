@@ -1,0 +1,3 @@
+﻿CREATE USER [jbecerralo]
+  WITHOUT LOGIN
+GO

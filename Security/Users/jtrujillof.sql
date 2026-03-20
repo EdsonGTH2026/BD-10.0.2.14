@@ -1,0 +1,3 @@
+﻿CREATE USER [jtrujillof]
+  WITHOUT LOGIN
+GO

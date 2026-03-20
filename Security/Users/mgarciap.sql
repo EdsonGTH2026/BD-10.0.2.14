@@ -1,0 +1,3 @@
+﻿CREATE USER [mgarciap]
+  WITHOUT LOGIN
+GO

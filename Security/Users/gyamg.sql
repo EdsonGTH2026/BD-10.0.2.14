@@ -1,0 +1,3 @@
+﻿CREATE USER [gyamg]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [maguayob]
+  WITHOUT LOGIN
+GO

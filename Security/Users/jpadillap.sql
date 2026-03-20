@@ -1,0 +1,3 @@
+﻿CREATE USER [jpadillap]
+  WITHOUT LOGIN
+GO

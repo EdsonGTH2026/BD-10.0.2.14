@@ -1,0 +1,3 @@
+﻿CREATE USER [mlopezm]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [mlunam]
+  WITHOUT LOGIN
+GO

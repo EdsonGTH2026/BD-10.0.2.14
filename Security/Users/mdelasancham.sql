@@ -1,0 +1,3 @@
+﻿CREATE USER [mdelasancham]
+  WITHOUT LOGIN
+GO

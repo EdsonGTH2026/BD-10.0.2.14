@@ -1,0 +1,3 @@
+﻿CREATE USER [aleyvag]
+  WITHOUT LOGIN
+GO

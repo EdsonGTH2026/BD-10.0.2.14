@@ -1,0 +1,3 @@
+﻿CREATE USER [lcontrerasc]
+  WITHOUT LOGIN
+GO

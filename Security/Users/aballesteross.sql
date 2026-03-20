@@ -1,0 +1,3 @@
+﻿CREATE USER [aballesteross]
+  WITHOUT LOGIN
+GO

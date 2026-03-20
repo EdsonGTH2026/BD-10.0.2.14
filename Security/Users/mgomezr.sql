@@ -1,0 +1,3 @@
+﻿CREATE USER [mgomezr]
+  WITHOUT LOGIN
+GO

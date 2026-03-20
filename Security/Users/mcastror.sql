@@ -1,0 +1,3 @@
+﻿CREATE USER [mcastror]
+  WITHOUT LOGIN
+GO

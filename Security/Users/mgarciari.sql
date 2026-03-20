@@ -1,0 +1,3 @@
+﻿CREATE USER [mgarciari]
+  WITHOUT LOGIN
+GO

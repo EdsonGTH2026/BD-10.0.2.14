@@ -1,0 +1,3 @@
+﻿CREATE USER [fperezg]
+  WITHOUT LOGIN
+GO

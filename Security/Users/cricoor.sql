@@ -1,0 +1,3 @@
+﻿CREATE USER [cricoor]
+  WITHOUT LOGIN
+GO

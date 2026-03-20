@@ -1,0 +1,3 @@
+﻿CREATE USER [lsanchezal]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [kamezcual]
+  WITHOUT LOGIN
+GO

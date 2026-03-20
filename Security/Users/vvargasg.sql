@@ -1,0 +1,3 @@
+﻿CREATE USER [vvargasg]
+  WITHOUT LOGIN
+GO

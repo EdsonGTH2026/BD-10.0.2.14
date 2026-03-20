@@ -1,0 +1,3 @@
+﻿CREATE USER [maristav]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [Ancruzs]
+  WITHOUT LOGIN
+GO

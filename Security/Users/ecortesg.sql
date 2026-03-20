@@ -1,0 +1,3 @@
+﻿CREATE USER [ecortesg]
+  WITHOUT LOGIN
+GO

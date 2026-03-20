@@ -1,0 +1,3 @@
+﻿CREATE USER [acorderof]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [rmorenov]
+  WITHOUT LOGIN
+GO

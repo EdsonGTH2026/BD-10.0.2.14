@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [cricoor]
+GO

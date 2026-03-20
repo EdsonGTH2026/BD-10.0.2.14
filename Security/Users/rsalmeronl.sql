@@ -1,0 +1,3 @@
+﻿CREATE USER [rsalmeronl]
+  WITHOUT LOGIN
+GO

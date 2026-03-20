@@ -1,0 +1,3 @@
+﻿CREATE USER [rcarrillod]
+  WITHOUT LOGIN
+GO

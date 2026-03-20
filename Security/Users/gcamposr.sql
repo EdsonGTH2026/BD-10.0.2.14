@@ -1,0 +1,3 @@
+﻿CREATE USER [gcamposr]
+  WITHOUT LOGIN
+GO

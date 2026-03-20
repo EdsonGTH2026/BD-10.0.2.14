@@ -1,0 +1,3 @@
+﻿CREATE USER [mcostillap]
+  WITHOUT LOGIN
+GO

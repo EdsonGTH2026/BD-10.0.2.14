@@ -1,0 +1,3 @@
+﻿CREATE USER [jbustamantei]
+  WITHOUT LOGIN
+GO

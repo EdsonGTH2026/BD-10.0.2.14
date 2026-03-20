@@ -1,0 +1,3 @@
+﻿CREATE USER [mazamarh]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [madominguezm]
+  WITHOUT LOGIN
+GO

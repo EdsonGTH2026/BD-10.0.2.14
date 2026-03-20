@@ -1,0 +1,3 @@
+﻿CREATE USER [tlunab]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [xalvaradoc]
+  WITHOUT LOGIN
+GO

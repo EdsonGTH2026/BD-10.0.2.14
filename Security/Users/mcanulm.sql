@@ -1,0 +1,3 @@
+﻿CREATE USER [mcanulm]
+  WITHOUT LOGIN
+GO

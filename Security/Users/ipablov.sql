@@ -1,0 +1,3 @@
+﻿CREATE USER [ipablov]
+  WITHOUT LOGIN
+GO

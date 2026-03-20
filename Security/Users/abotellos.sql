@@ -1,0 +1,3 @@
+﻿CREATE USER [abotellos]
+  WITHOUT LOGIN
+GO

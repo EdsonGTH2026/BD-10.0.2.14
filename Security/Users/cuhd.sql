@@ -1,0 +1,3 @@
+﻿CREATE USER [cuhd]
+  WITHOUT LOGIN
+GO

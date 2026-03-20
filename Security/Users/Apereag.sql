@@ -1,0 +1,3 @@
+﻿CREATE USER [Apereag]
+  WITHOUT LOGIN
+GO

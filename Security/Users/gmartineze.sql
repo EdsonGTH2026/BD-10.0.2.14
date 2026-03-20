@@ -1,0 +1,3 @@
+﻿CREATE USER [gmartineze]
+  WITHOUT LOGIN
+GO

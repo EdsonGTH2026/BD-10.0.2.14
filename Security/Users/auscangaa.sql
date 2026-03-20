@@ -1,0 +1,3 @@
+﻿CREATE USER [auscangaa]
+  WITHOUT LOGIN
+GO

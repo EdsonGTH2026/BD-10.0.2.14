@@ -1,0 +1,3 @@
+﻿CREATE USER [emontess]
+  WITHOUT LOGIN
+GO

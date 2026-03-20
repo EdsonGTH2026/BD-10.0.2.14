@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [mamartinezc]
+GO

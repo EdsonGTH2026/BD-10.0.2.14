@@ -1,0 +1,3 @@
+﻿CREATE USER [chipolitog]
+  WITHOUT LOGIN
+GO

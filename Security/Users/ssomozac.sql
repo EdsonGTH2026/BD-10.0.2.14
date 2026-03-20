@@ -1,0 +1,3 @@
+﻿CREATE USER [ssomozac]
+  WITHOUT LOGIN
+GO

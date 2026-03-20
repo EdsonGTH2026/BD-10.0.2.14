@@ -1,0 +1,3 @@
+﻿CREATE USER [sjimenezr]
+  WITHOUT LOGIN
+GO

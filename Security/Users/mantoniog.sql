@@ -1,0 +1,3 @@
+﻿CREATE USER [mantoniog]
+  WITHOUT LOGIN
+GO

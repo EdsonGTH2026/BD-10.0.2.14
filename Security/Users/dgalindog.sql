@@ -1,0 +1,3 @@
+﻿CREATE USER [dgalindog]
+  WITHOUT LOGIN
+GO

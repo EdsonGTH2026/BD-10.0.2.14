@@ -1,0 +1,3 @@
+﻿CREATE USER [jlopezb]
+  WITHOUT LOGIN
+GO

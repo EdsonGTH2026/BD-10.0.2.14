@@ -1,0 +1,3 @@
+﻿CREATE USER [ahernandezi]
+  WITHOUT LOGIN
+GO

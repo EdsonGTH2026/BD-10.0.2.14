@@ -1,0 +1,3 @@
+﻿CREATE USER [jjimeneza]
+  WITHOUT LOGIN
+GO

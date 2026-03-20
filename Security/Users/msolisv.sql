@@ -1,0 +1,3 @@
+﻿CREATE USER [msolisv]
+  WITHOUT LOGIN
+GO

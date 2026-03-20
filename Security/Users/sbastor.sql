@@ -1,0 +1,3 @@
+﻿CREATE USER [sbastor]
+  WITHOUT LOGIN
+GO

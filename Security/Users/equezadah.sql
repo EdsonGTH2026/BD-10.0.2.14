@@ -1,0 +1,3 @@
+﻿CREATE USER [equezadah]
+  WITHOUT LOGIN
+GO

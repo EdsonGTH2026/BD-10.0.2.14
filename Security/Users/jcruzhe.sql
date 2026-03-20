@@ -1,0 +1,3 @@
+﻿CREATE USER [jcruzhe]
+  WITHOUT LOGIN
+GO

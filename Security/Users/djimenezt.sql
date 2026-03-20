@@ -1,0 +1,3 @@
+﻿CREATE USER [djimenezt]
+  WITHOUT LOGIN
+GO

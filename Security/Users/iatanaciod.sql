@@ -1,0 +1,3 @@
+﻿CREATE USER [iatanaciod]
+  WITHOUT LOGIN
+GO

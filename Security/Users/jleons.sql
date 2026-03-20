@@ -1,0 +1,3 @@
+﻿CREATE USER [jleons]
+  WITHOUT LOGIN
+GO

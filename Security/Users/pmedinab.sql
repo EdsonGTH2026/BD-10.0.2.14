@@ -1,0 +1,3 @@
+﻿CREATE USER [pmedinab]
+  WITHOUT LOGIN
+GO

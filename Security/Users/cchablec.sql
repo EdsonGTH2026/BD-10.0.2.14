@@ -1,0 +1,3 @@
+﻿CREATE USER [cchablec]
+  WITHOUT LOGIN
+GO

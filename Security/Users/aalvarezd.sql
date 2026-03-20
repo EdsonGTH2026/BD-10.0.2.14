@@ -1,0 +1,3 @@
+﻿CREATE USER [aalvarezd]
+  WITHOUT LOGIN
+GO

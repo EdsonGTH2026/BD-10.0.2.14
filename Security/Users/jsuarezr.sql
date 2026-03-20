@@ -1,0 +1,3 @@
+﻿CREATE USER [jsuarezr]
+  WITHOUT LOGIN
+GO

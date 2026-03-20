@@ -1,0 +1,3 @@
+﻿CREATE USER [mbarajasp]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [rduartel]
+  WITHOUT LOGIN
+GO

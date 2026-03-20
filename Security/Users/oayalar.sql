@@ -1,0 +1,3 @@
+﻿CREATE USER [oayalar]
+  WITHOUT LOGIN
+GO

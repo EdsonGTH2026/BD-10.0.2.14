@@ -1,0 +1,3 @@
+﻿CREATE USER [cjimenezm]
+  WITHOUT LOGIN
+GO

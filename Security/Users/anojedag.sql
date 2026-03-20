@@ -1,0 +1,3 @@
+﻿CREATE USER [anojedag]
+  WITHOUT LOGIN
+GO

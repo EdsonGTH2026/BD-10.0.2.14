@@ -1,0 +1,3 @@
+﻿CREATE USER [mmunozc]
+  WITHOUT LOGIN
+GO

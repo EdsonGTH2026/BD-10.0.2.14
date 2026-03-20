@@ -1,0 +1,3 @@
+﻿CREATE USER [emontalvoc]
+  WITHOUT LOGIN
+GO

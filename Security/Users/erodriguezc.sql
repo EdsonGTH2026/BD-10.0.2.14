@@ -1,0 +1,3 @@
+﻿CREATE USER [erodriguezc]
+  WITHOUT LOGIN
+GO

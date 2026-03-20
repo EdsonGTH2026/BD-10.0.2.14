@@ -1,0 +1,3 @@
+﻿CREATE USER [dabarcag]
+  WITHOUT LOGIN
+GO

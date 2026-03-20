@@ -1,0 +1,3 @@
+﻿CREATE USER [saescalantem]
+  WITHOUT LOGIN
+GO

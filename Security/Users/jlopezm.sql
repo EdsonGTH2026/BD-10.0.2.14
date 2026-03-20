@@ -1,0 +1,3 @@
+﻿CREATE USER [jlopezm]
+  WITHOUT LOGIN
+GO

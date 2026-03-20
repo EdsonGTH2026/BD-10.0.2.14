@@ -1,0 +1,3 @@
+﻿CREATE USER [yhernandezp]
+  WITHOUT LOGIN
+GO

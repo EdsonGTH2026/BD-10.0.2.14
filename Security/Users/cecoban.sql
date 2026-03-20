@@ -1,0 +1,3 @@
+﻿CREATE USER [cecoban]
+  WITHOUT LOGIN
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [bzermenog]
+  WITHOUT LOGIN
+GO

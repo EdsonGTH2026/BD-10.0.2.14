@@ -1,0 +1,3 @@
+﻿CREATE USER [abaltazarg]
+  WITHOUT LOGIN
+GO

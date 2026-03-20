@@ -1,0 +1,3 @@
+﻿CREATE USER [mamartinezc]
+  WITHOUT LOGIN
+GO

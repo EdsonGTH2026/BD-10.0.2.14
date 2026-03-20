@@ -1,0 +1,3 @@
+﻿CREATE USER [jloeram]
+  WITHOUT LOGIN
+GO

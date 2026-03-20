@@ -1,0 +1,9 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+CREATE PROCEDURE [dbo].[pCURPInfoAgregaSolicitudQA] @IdSolicitud VARCHAR(18), @CURP VARCHAR(18), @Sistema VARCHAR(20)
+AS
+	INSERT INTO tCURPInfoQA (IdSolicitud, CURP, Sistema)
+	VALUES (@IdSolicitud, @CURP, @Sistema)
+
+	SELECT SCOPE_IDENTITY() AS IdRet
+GO

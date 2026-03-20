@@ -1,0 +1,3 @@
+﻿CREATE USER [mjacintoq]
+  WITHOUT LOGIN
+GO

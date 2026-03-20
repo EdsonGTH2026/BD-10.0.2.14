@@ -1,0 +1,3 @@
+﻿CREATE USER [mbalamg]
+  WITHOUT LOGIN
+GO

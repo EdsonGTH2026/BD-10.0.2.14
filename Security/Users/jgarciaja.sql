@@ -1,0 +1,3 @@
+﻿CREATE USER [jgarciaja]
+  WITHOUT LOGIN
+GO

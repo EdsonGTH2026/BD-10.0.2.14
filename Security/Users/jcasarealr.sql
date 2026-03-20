@@ -1,0 +1,3 @@
+﻿CREATE USER [jcasarealr]
+  WITHOUT LOGIN
+GO

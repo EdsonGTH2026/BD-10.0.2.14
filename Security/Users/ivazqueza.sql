@@ -1,0 +1,3 @@
+﻿CREATE USER [ivazqueza]
+  WITHOUT LOGIN
+GO

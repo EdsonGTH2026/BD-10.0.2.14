@@ -1,0 +1,3 @@
+﻿CREATE USER [jpizanot]
+  WITHOUT LOGIN
+GO
