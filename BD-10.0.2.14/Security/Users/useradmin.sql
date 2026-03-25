@@ -1,0 +1,3 @@
+﻿CREATE USER [useradmin]
+  WITHOUT LOGIN
+GO
