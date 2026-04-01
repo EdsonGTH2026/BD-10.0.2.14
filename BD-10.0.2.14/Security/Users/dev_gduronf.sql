@@ -1,3 +1,0 @@
-﻿CREATE USER [dev_gduronf]
-  WITHOUT LOGIN
-GO
